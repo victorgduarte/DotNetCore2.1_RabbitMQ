@@ -1,0 +1,12 @@
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.deps.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.runtimeconfig.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.runtimeconfig.dev.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.dll
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\bin\Debug\netcoreapp2.1\ProcessadorMensagens.pdb
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csprojAssemblyReference.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.csproj.CoreCompileInputs.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.AssemblyInfoInputs.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.AssemblyInfo.cs
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.dll
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\ProcessadorMensagens\obj\Debug\netcoreapp2.1\ProcessadorMensagens.pdb

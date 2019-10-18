@@ -1,0 +1,14 @@
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\bin\Debug\netcoreapp2.1\APIMensagens.deps.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\bin\Debug\netcoreapp2.1\APIMensagens.runtimeconfig.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\bin\Debug\netcoreapp2.1\APIMensagens.runtimeconfig.dev.json
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\bin\Debug\netcoreapp2.1\APIMensagens.dll
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\bin\Debug\netcoreapp2.1\APIMensagens.pdb
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.csprojAssemblyReference.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.csproj.CoreCompileInputs.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.RazorAssemblyInfo.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.RazorAssemblyInfo.cs
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.AssemblyInfoInputs.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.AssemblyInfo.cs
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.RazorTargetAssemblyInfo.cache
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.dll
+C:\Git\Testes\Docker\RabbitMQ-DotNetCore2.1\ExemploRabbitMQ\APIMensagens\obj\Debug\netcoreapp2.1\APIMensagens.pdb
