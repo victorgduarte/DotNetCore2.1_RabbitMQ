@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj": {}
+    "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj": {
+    "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj",
+        "projectUniqueName": "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj",
         "projectName": "APIMensagens",
-        "projectPath": "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj",
+        "projectPath": "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\APIMensagens\\APIMensagens.csproj",
         "packagesPath": "C:\\Users\\zupper\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\APIMensagens\\obj\\",
+        "outputPath": "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\APIMensagens\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
