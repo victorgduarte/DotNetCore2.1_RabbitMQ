@@ -4670,11 +4670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\ProcessadorMensagens\\ProcessadorMensagens.csproj",
+      "projectUniqueName": "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\ProcessadorMensagens\\ProcessadorMensagens.csproj",
       "projectName": "ProcessadorMensagens",
-      "projectPath": "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\ProcessadorMensagens\\ProcessadorMensagens.csproj",
+      "projectPath": "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\ProcessadorMensagens\\ProcessadorMensagens.csproj",
       "packagesPath": "C:\\Users\\zupper\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Testes\\Docker\\DotNetCore2.1_RabbitMQ\\ExemploRabbitMQ\\ProcessadorMensagens\\obj\\",
+      "outputPath": "C:\\Git\\Testes\\Docker\\RabbitMQ-DotNetCore2.1\\ExemploRabbitMQ\\ProcessadorMensagens\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
